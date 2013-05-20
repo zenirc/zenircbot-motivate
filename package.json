@@ -1,0 +1,17 @@
+{
+    "author": "Wraithan (http://wraithan.net)",
+    "name": "zenircbot-motivate",
+    "description": "Gives ZenIRCBot commands for motivation.",
+    "version": "0.1.0",
+    "homepage": "http://github.com/zenirc/zenircbot-motivate",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/zenirc/zenircbot-motivate.git"
+    },
+    "dependencies": {
+        "zenircbot-api": "2.3.0",
+    },
+    "engines": {
+        "node": "*"
+    }
+}
