@@ -13,5 +13,8 @@
     },
     "engines": {
         "node": "*"
+    },
+    "scripts": {
+        "start": "node ./motivate.js"
     }
 }
