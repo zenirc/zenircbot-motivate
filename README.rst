@@ -1,7 +1,6 @@
-ZenIRCBot Github
-================
+ZenIRCBot Motivate
+==================
 
-This uses weblistener_ to push messages for ZenIRCBot_.
+Lets you tell ZenIRCBot_ to praise (or discourage) someone!
 
-.. _weblistener: https://github.com/zenirc/weblistener
 .. _ZenIRCBot: https://github.com/zenirc/zenircbot
